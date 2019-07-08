@@ -1,0 +1,8 @@
+Instalação
+1- Deixar os arquivos no mesmo diretório;
+2- Configurar o banco de dados conforme o arquivo config.ini;
+3- Restaurar o arquivo dump-carteira_virtual-201907072329.sql;
+
+Sistema
+
+Na tela movimentação de carteira o gráfico e a exportação são gerados de acordo os filtros da tela. 
